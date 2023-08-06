@@ -7,3 +7,5 @@ There are provisions to access the system as an user or as the admin. The defaul
 The admin can insert, delete, or update stock values, view stock details of various companies and also the stocks bought by the users.
   
 The users are assigned login credentials to make transactions if they are new, which can be used to buy or sell stocks by viewing available stocks. They can also view the     stocks bought and can delete their account.
+
+Refer to "Project Report.pdf" to know more.
